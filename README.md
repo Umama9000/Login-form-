@@ -1,2 +1,2 @@
 # Login-form-
-Login form with react.js
+Logi form with javascript 
